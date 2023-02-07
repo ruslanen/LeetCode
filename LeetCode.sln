@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.1480_Running_Sum_of_1d_Array", "LeetCode.1480_Running_Sum_of_1d_Array\LeetCode.1480_Running_Sum_of_1d_Array.csproj", "{F20C848D-6101-4D4F-BBAD-F456F3A371D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.704_Binary_Search", "LeetCode.704_Binary_Search\LeetCode.704_Binary_Search.csproj", "{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.724_Find_Pivot_Index", "LeetCode.724_Find_Pivot_Index\LeetCode.724_Find_Pivot_Index.csproj", "{1CAA1507-1B76-4D36-A9C6-E97C4263E0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20C848D-6101-4D4F-BBAD-F456F3A371D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20C848D-6101-4D4F-BBAD-F456F3A371D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20C848D-6101-4D4F-BBAD-F456F3A371D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20C848D-6101-4D4F-BBAD-F456F3A371D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAA1507-1B76-4D36-A9C6-E97C4263E0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAA1507-1B76-4D36-A9C6-E97C4263E0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAA1507-1B76-4D36-A9C6-E97C4263E0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAA1507-1B76-4D36-A9C6-E97C4263E0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
