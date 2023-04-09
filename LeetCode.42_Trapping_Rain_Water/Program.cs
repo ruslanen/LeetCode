@@ -1,4 +1,4 @@
-﻿using LeetCode._42_Trapping_Rain_Water;
+﻿namespace LeetCode._42_Trapping_Rain_Water;
 
 public class Program
 {
