@@ -1,34 +1,60 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.1480_Running_Sum_of_1d_Array", "LeetCode.1480_Running_Sum_of_1d_Array\LeetCode.1480_Running_Sum_of_1d_Array.csproj", "{F20C848D-6101-4D4F-BBAD-F456F3A371D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._1480_Running_Sum_of_1d_Array", "LeetCode._1480_Running_Sum_of_1d_Array\LeetCode._1480_Running_Sum_of_1d_Array.csproj", "{F20C848D-6101-4D4F-BBAD-F456F3A371D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.704_Binary_Search", "LeetCode.704_Binary_Search\LeetCode.704_Binary_Search.csproj", "{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._704_Binary_Search", "LeetCode._704_Binary_Search\LeetCode._704_Binary_Search.csproj", "{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.724_Find_Pivot_Index", "LeetCode.724_Find_Pivot_Index\LeetCode.724_Find_Pivot_Index.csproj", "{1CAA1507-1B76-4D36-A9C6-E97C4263E0C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._724_Find_Pivot_Index", "LeetCode._724_Find_Pivot_Index\LeetCode._724_Find_Pivot_Index.csproj", "{1CAA1507-1B76-4D36-A9C6-E97C4263E0C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.102_Binary_Tree_Level_Order_Traversal", "LeetCode.102_Binary_Tree_Level_Order_Traversal\LeetCode.102_Binary_Tree_Level_Order_Traversal.csproj", "{B0783D02-AD7F-42FA-9F96-0616BB4B9212}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._102_Binary_Tree_Level_Order_Traversal", "LeetCode._102_Binary_Tree_Level_Order_Traversal\LeetCode._102_Binary_Tree_Level_Order_Traversal.csproj", "{B0783D02-AD7F-42FA-9F96-0616BB4B9212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.278_First_Bad_Version", "LeetCode.278_First_Bad_Version\LeetCode.278_First_Bad_Version.csproj", "{30B49EFF-FD84-4423-9F72-F3DD6623B8E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._278_First_Bad_Version", "LeetCode._278_First_Bad_Version\LeetCode._278_First_Bad_Version.csproj", "{30B49EFF-FD84-4423-9F72-F3DD6623B8E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.98_Validate_Binary_Search_Tree", "LeetCode.98_Validate_Binary_Search_Tree\LeetCode.98_Validate_Binary_Search_Tree.csproj", "{865812F6-D94A-476E-8AF8-DE2E50D3DC0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._98_Validate_Binary_Search_Tree", "LeetCode._98_Validate_Binary_Search_Tree\LeetCode._98_Validate_Binary_Search_Tree.csproj", "{865812F6-D94A-476E-8AF8-DE2E50D3DC0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.733_Flood_Fill", "LeetCode.733_Flood_Fill\LeetCode.733_Flood_Fill.csproj", "{38CBC968-8CD8-4089-8BAF-DEB50ADEDCB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._733_Flood_Fill", "LeetCode._733_Flood_Fill\LeetCode._733_Flood_Fill.csproj", "{38CBC968-8CD8-4089-8BAF-DEB50ADEDCB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.2_Add_Two_Numbers", "LeetCode.2_Add_Two_Numbers\LeetCode.2_Add_Two_Numbers.csproj", "{533E64F6-4FE3-40B5-A36B-D293DFA5F68A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._2_Add_Two_Numbers", "LeetCode._2_Add_Two_Numbers\LeetCode._2_Add_Two_Numbers.csproj", "{533E64F6-4FE3-40B5-A36B-D293DFA5F68A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.42_Trapping_Rain_Water", "LeetCode.42_Trapping_Rain_Water\LeetCode.42_Trapping_Rain_Water.csproj", "{BFB6EB35-F29D-4680-A0BC-4FCE6F53893E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._42_Trapping_Rain_Water", "LeetCode._42_Trapping_Rain_Water\LeetCode._42_Trapping_Rain_Water.csproj", "{BFB6EB35-F29D-4680-A0BC-4FCE6F53893E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.9_Palindrome_Number", "LeetCode.9_Palindrome_Number\LeetCode.9_Palindrome_Number.csproj", "{EA6FDC09-8361-4443-968A-B3B8C0A49272}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._9_Palindrome_Number", "LeetCode._9_Palindrome_Number\LeetCode._9_Palindrome_Number.csproj", "{EA6FDC09-8361-4443-968A-B3B8C0A49272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.13_Roman_to_Integer", "LeetCode.13_Roman_to_Integer\LeetCode.13_Roman_to_Integer.csproj", "{ECDFE70A-1E75-45D2-935B-D725C4F1112A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._13_Roman_to_Integer", "LeetCode._13_Roman_to_Integer\LeetCode._13_Roman_to_Integer.csproj", "{ECDFE70A-1E75-45D2-935B-D725C4F1112A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.14_Longest_Common_Prefix", "LeetCode.14_Longest_Common_Prefix\LeetCode.14_Longest_Common_Prefix.csproj", "{830A0B13-1E30-4C83-8FCD-9195DBCDF9D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._14_Longest_Common_Prefix", "LeetCode._14_Longest_Common_Prefix\LeetCode._14_Longest_Common_Prefix.csproj", "{830A0B13-1E30-4C83-8FCD-9195DBCDF9D3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{DFBD8C98-2AE9-412A-B0A4-374BBF736DDC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard", "Hard", "{68CC93D2-7A8C-4D7C-977E-3CA293B6E835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._205_Isomorphic_Strings", "LeetCode._205_Isomorphic_Strings\LeetCode._205_Isomorphic_Strings.csproj", "{9EFAF731-3712-4D37-8BC6-78040F8DDF83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._287_Find_the_Duplicate_Number", "LeetCode._287_Find_the_Duplicate_Number\LeetCode._287_Find_the_Duplicate_Number.csproj", "{31579331-6D21-49CB-A2AC-CC0C13C349C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._120_Valid_Parentheses", "LeetCode._120_Valid_Parentheses\LeetCode._120_Valid_Parentheses.csproj", "{039B7ADD-82B1-4388-8A97-25B35F11C110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._70_Climbing_Stairs", "LeetCode._70_Climbing_Stairs\LeetCode._70_Climbing_Stairs.csproj", "{F749C428-2922-4A2A-B6D9-633286BD68D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._509_Fibonacci_Number", "LeetCode._509_Fibonacci_Number\LeetCode._509_Fibonacci_Number.csproj", "{3FA0AC71-0F06-4CFA-BCC5-7BF97421F51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._392_Is_Subsequence", "LeetCode._392_Is_Subsequence\LeetCode._392_Is_Subsequence.csproj", "{6B94B135-2803-442B-9DFA-593917210487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._21_Merge_Two_Sorted_Lists", "LeetCode._21_Merge_Two_Sorted_Lists\LeetCode._21_Merge_Two_Sorted_Lists.csproj", "{68618D3D-6538-4097-ADB6-EBDC55D9CD02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._206_Reverse_Linked_List", "LeetCode._206_Reverse_Linked_List\LeetCode._206_Reverse_Linked_List.csproj", "{FB0F5DB0-DD1E-4B1D-AB6E-F2250B221472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._876_Middle_of_the_Linked_List", "LeetCode._876_Middle_of_the_Linked_List\LeetCode._876_Middle_of_the_Linked_List.csproj", "{8751C1A7-7B01-4403-ACFF-8AC37F9E9522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._142_Linked_List_Cycle_II", "LeetCode._142_Linked_List_Cycle_II\LeetCode._142_Linked_List_Cycle_II.csproj", "{5F4C9652-84E7-4A03-8EEB-F92E8AF3A9B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._121_Best_Time_to_Buy_and_Sell_Stock", "LeetCode._121_Best_Time_to_Buy_and_Sell_Stock\LeetCode._121_Best_Time_to_Buy_and_Sell_Stock.csproj", "{EEB57480-157A-412D-A9B9-10EF35C77018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._409_Longest_Palindrome", "LeetCode._409_Longest_Palindrome\LeetCode._409_Longest_Palindrome.csproj", "{B4985B30-10AB-42F6-91A1-E7AD5D1564A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._589_N-ary_Tree_Preorder_Traversal", "LeetCode._589_N-ary_Tree_Preorder_Traversal\LeetCode._589_N-ary_Tree_Preorder_Traversal.csproj", "{0BE5CF4B-C0E6-4F69-9C7F-FD19610BEF9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -84,6 +110,58 @@ Global
 		{830A0B13-1E30-4C83-8FCD-9195DBCDF9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{830A0B13-1E30-4C83-8FCD-9195DBCDF9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{830A0B13-1E30-4C83-8FCD-9195DBCDF9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFAF731-3712-4D37-8BC6-78040F8DDF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFAF731-3712-4D37-8BC6-78040F8DDF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFAF731-3712-4D37-8BC6-78040F8DDF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFAF731-3712-4D37-8BC6-78040F8DDF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31579331-6D21-49CB-A2AC-CC0C13C349C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31579331-6D21-49CB-A2AC-CC0C13C349C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31579331-6D21-49CB-A2AC-CC0C13C349C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31579331-6D21-49CB-A2AC-CC0C13C349C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039B7ADD-82B1-4388-8A97-25B35F11C110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039B7ADD-82B1-4388-8A97-25B35F11C110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039B7ADD-82B1-4388-8A97-25B35F11C110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039B7ADD-82B1-4388-8A97-25B35F11C110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F749C428-2922-4A2A-B6D9-633286BD68D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F749C428-2922-4A2A-B6D9-633286BD68D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F749C428-2922-4A2A-B6D9-633286BD68D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F749C428-2922-4A2A-B6D9-633286BD68D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA0AC71-0F06-4CFA-BCC5-7BF97421F51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA0AC71-0F06-4CFA-BCC5-7BF97421F51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA0AC71-0F06-4CFA-BCC5-7BF97421F51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA0AC71-0F06-4CFA-BCC5-7BF97421F51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B94B135-2803-442B-9DFA-593917210487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B94B135-2803-442B-9DFA-593917210487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B94B135-2803-442B-9DFA-593917210487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B94B135-2803-442B-9DFA-593917210487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68618D3D-6538-4097-ADB6-EBDC55D9CD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68618D3D-6538-4097-ADB6-EBDC55D9CD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68618D3D-6538-4097-ADB6-EBDC55D9CD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68618D3D-6538-4097-ADB6-EBDC55D9CD02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0F5DB0-DD1E-4B1D-AB6E-F2250B221472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0F5DB0-DD1E-4B1D-AB6E-F2250B221472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0F5DB0-DD1E-4B1D-AB6E-F2250B221472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0F5DB0-DD1E-4B1D-AB6E-F2250B221472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8751C1A7-7B01-4403-ACFF-8AC37F9E9522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8751C1A7-7B01-4403-ACFF-8AC37F9E9522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8751C1A7-7B01-4403-ACFF-8AC37F9E9522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8751C1A7-7B01-4403-ACFF-8AC37F9E9522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4C9652-84E7-4A03-8EEB-F92E8AF3A9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4C9652-84E7-4A03-8EEB-F92E8AF3A9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4C9652-84E7-4A03-8EEB-F92E8AF3A9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4C9652-84E7-4A03-8EEB-F92E8AF3A9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB57480-157A-412D-A9B9-10EF35C77018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB57480-157A-412D-A9B9-10EF35C77018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB57480-157A-412D-A9B9-10EF35C77018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB57480-157A-412D-A9B9-10EF35C77018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4985B30-10AB-42F6-91A1-E7AD5D1564A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4985B30-10AB-42F6-91A1-E7AD5D1564A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4985B30-10AB-42F6-91A1-E7AD5D1564A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4985B30-10AB-42F6-91A1-E7AD5D1564A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE5CF4B-C0E6-4F69-9C7F-FD19610BEF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE5CF4B-C0E6-4F69-9C7F-FD19610BEF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE5CF4B-C0E6-4F69-9C7F-FD19610BEF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE5CF4B-C0E6-4F69-9C7F-FD19610BEF9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFB6EB35-F29D-4680-A0BC-4FCE6F53893E} = {68CC93D2-7A8C-4D7C-977E-3CA293B6E835}
@@ -98,5 +176,18 @@ Global
 		{865812F6-D94A-476E-8AF8-DE2E50D3DC0E} = {DFBD8C98-2AE9-412A-B0A4-374BBF736DDC}
 		{C2D6EE6E-6E8D-421A-8A3A-ED48F6E68824} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
 		{38CBC968-8CD8-4089-8BAF-DEB50ADEDCB4} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{9EFAF731-3712-4D37-8BC6-78040F8DDF83} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{31579331-6D21-49CB-A2AC-CC0C13C349C6} = {DFBD8C98-2AE9-412A-B0A4-374BBF736DDC}
+		{039B7ADD-82B1-4388-8A97-25B35F11C110} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{F749C428-2922-4A2A-B6D9-633286BD68D8} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{3FA0AC71-0F06-4CFA-BCC5-7BF97421F51A} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{6B94B135-2803-442B-9DFA-593917210487} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{68618D3D-6538-4097-ADB6-EBDC55D9CD02} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{FB0F5DB0-DD1E-4B1D-AB6E-F2250B221472} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{8751C1A7-7B01-4403-ACFF-8AC37F9E9522} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{5F4C9652-84E7-4A03-8EEB-F92E8AF3A9B8} = {DFBD8C98-2AE9-412A-B0A4-374BBF736DDC}
+		{EEB57480-157A-412D-A9B9-10EF35C77018} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{B4985B30-10AB-42F6-91A1-E7AD5D1564A1} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{0BE5CF4B-C0E6-4F69-9C7F-FD19610BEF9F} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
 	EndGlobalSection
 EndGlobal
