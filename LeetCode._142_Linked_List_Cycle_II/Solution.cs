@@ -18,7 +18,6 @@ public class Solution
             if (slowIterator == fastIterator)
             {
                 break;
-                ;
             }
         }
 
