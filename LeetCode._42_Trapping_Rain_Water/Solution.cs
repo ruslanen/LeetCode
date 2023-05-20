@@ -2,8 +2,44 @@
 
 public class Solution
 {
-    // Out of memory
     public int Trap(int[] height)
+    {
+        var maxLeft = new int[height.Length];
+        var maxRight = new int[height.Length];
+
+        var lm = 0;
+        for (int i = 0; i < height.Length; i++)
+        {
+            if (height[i] > lm)
+                lm = height[i];
+
+            maxLeft[i] = lm;
+        }
+        
+        var rm = 0;
+        for (int i = height.Length - 1; i >= 0; i--)
+        {
+            if (height[i] > rm)
+                rm = height[i];
+
+            maxRight[i] = rm;
+        }
+
+        var sum = 0;
+        for (int i = 0; i < height.Length; i++)
+        {
+            var diff = Math.Min(maxLeft[i], maxRight[i]) - height[i];
+            if (diff > 0)
+            {
+                sum += diff;
+            }
+        }
+
+        return sum;
+    }
+    
+    // Out of memory
+    public int TrapV1(int[] height)
     {
         // Находим максимальный элемент (это будет размерность одного измерения матрицы)
         var n = height.Max();
@@ -104,62 +140,6 @@ public class Solution
             Console.WriteLine($"For column: {i} firstRow: {firstOne}, lastRow: {lastOne}");
         }
 
-        return traps;
-    }
-
-    public int TrapV3(int[] height)
-    {
-        var traps = 0;
-        var startAtIndex = 0;
-        var startAtValue = height[0];
-        var k = 0;
-        var l = 0;
-        var isIterating = false;
-        var startIndex = -1;
-        var startFrom = 0;
-        for (int i = 1; i < height.Length - 1; i++)
-        {
-            var current = height[i];
-            var left = height[i - 1];
-            var right = height[i + 1];
-
-            
-            // if (current < right && current < left)
-            // {
-            //     var c = Math.Min(left, right) - current;
-            //     traps = traps + c;
-            // }
-            // else if (current < right && current > left)
-            // {
-            //     if (isIterating)
-            //     {
-            //         k = Math.Min(startFrom, right) - current;
-            //     }
-            //     else
-            //     {
-            //         
-            //     }
-            // }
-            // else if (current > right && current < left)
-            // {
-            //     isIterating = true;
-            //     startIndex = i;
-            //     startFrom = left;
-            //     l = left - current;
-            // }
-
-            if (current > left)
-            {
-                isIterating = true;
-                startIndex = i;
-                startFrom = current;
-            }
-            else if (current > right)
-            {
-                
-            }
-        }
-    
         return traps;
     }
 }
