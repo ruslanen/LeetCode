@@ -80,6 +80,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._228_Summary_Range
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._1493_Longest_Subarray_of_1s_After_Deleting_One_Element", "LeetCode._1493_Longest_Subarray_of_1s_After_Deleting_One_Element\LeetCode._1493_Longest_Subarray_of_1s_After_Deleting_One_Element.csproj", "{46C1BB7C-8CE4-4C04-867F-98952F97A5EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeetCode._283_Move_Zeroes", "LeeetCode._283_Move_Zeroes\LeeetCode._283_Move_Zeroes.csproj", "{E2A1B512-8ACD-41C3-86FD-A118D0354E8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -234,6 +236,10 @@ Global
 		{46C1BB7C-8CE4-4C04-867F-98952F97A5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C1BB7C-8CE4-4C04-867F-98952F97A5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C1BB7C-8CE4-4C04-867F-98952F97A5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A1B512-8ACD-41C3-86FD-A118D0354E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A1B512-8ACD-41C3-86FD-A118D0354E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A1B512-8ACD-41C3-86FD-A118D0354E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A1B512-8ACD-41C3-86FD-A118D0354E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFB6EB35-F29D-4680-A0BC-4FCE6F53893E} = {68CC93D2-7A8C-4D7C-977E-3CA293B6E835}
@@ -273,5 +279,6 @@ Global
 		{1FD6F9AA-3672-4732-BB3B-74748E498BFE} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
 		{4D6C3C5B-6983-4B52-9145-CFEB3DF6398F} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
 		{46C1BB7C-8CE4-4C04-867F-98952F97A5EE} = {DFBD8C98-2AE9-412A-B0A4-374BBF736DDC}
+		{E2A1B512-8ACD-41C3-86FD-A118D0354E8F} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
 	EndGlobalSection
 EndGlobal
