@@ -88,6 +88,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._977_Squares_of_a_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode_1768_Merge_Strings_Alternately", "LeetCode_1768_Merge_Strings_Alternately\LeetCode_1768_Merge_Strings_Alternately.csproj", "{4D183342-CC32-4D7A-91A1-029653F4DB13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode._1071_Greatest_Common_Divisor_of_Strings", "LeetCode._1071_Greatest_Common_Divisor_of_Strings\LeetCode._1071_Greatest_Common_Divisor_of_Strings.csproj", "{E54B0102-22F1-476F-B9EB-FEF9CB2C4FCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -258,6 +260,10 @@ Global
 		{4D183342-CC32-4D7A-91A1-029653F4DB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D183342-CC32-4D7A-91A1-029653F4DB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D183342-CC32-4D7A-91A1-029653F4DB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54B0102-22F1-476F-B9EB-FEF9CB2C4FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54B0102-22F1-476F-B9EB-FEF9CB2C4FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54B0102-22F1-476F-B9EB-FEF9CB2C4FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54B0102-22F1-476F-B9EB-FEF9CB2C4FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFB6EB35-F29D-4680-A0BC-4FCE6F53893E} = {68CC93D2-7A8C-4D7C-977E-3CA293B6E835}
@@ -301,5 +307,6 @@ Global
 		{1CFB5409-4487-4F46-BBB1-E35D767C53D4} = {DFBD8C98-2AE9-412A-B0A4-374BBF736DDC}
 		{6CA65CA5-7833-42AE-A603-8F7633AE93FD} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
 		{4D183342-CC32-4D7A-91A1-029653F4DB13} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
+		{E54B0102-22F1-476F-B9EB-FEF9CB2C4FCC} = {D4197AD7-2210-4F4B-9F5A-F1BE57F8B921}
 	EndGlobalSection
 EndGlobal
